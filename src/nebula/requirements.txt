@@ -8,3 +8,5 @@ pyspellchecker
 nvidia-ml-py3
 psutil
 prompt-toolkit
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
